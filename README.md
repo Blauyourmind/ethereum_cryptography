@@ -18,3 +18,10 @@ This python script generates a 24 word seed phrase and seed from scratch accordi
 ```bash
 python3 bip39.py
 ```
+
+
+# Good Resources
+1. https://wolovim.medium.com/ethereum-201-hd-wallets-11d0c93c87f7
+2. https://github.com/ethereumbook/ethereumbook/blob/develop/05wallets.asciidoc
+3. https://github.com/bitcoin/bips/blob/master/bip-0032.mediawiki
+
