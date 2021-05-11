@@ -5,7 +5,7 @@
 
 ## eth_key_gen.py
 
-This python script generates a single ethereuam private key, public key, and address. In your terminal run:
+This python script generates a single ethereum private key, public key, and address. In your terminal run:
 
 ```bash
 python3 eth_key_gen.py
