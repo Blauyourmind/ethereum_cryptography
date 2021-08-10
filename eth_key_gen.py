@@ -1,4 +1,5 @@
 import os
+import sys
 import hashlib
 from web3 import Web3
 from ecdsa import SECP256k1
